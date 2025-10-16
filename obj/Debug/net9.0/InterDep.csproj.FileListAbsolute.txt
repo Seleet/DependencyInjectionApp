@@ -1,0 +1,14 @@
+C:\Dev\InterDep\bin\Debug\net9.0\InterDep.exe
+C:\Dev\InterDep\bin\Debug\net9.0\InterDep.deps.json
+C:\Dev\InterDep\bin\Debug\net9.0\InterDep.runtimeconfig.json
+C:\Dev\InterDep\bin\Debug\net9.0\InterDep.dll
+C:\Dev\InterDep\bin\Debug\net9.0\InterDep.pdb
+C:\Dev\InterDep\obj\Debug\net9.0\InterDep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\InterDep\obj\Debug\net9.0\InterDep.AssemblyInfoInputs.cache
+C:\Dev\InterDep\obj\Debug\net9.0\InterDep.AssemblyInfo.cs
+C:\Dev\InterDep\obj\Debug\net9.0\InterDep.csproj.CoreCompileInputs.cache
+C:\Dev\InterDep\obj\Debug\net9.0\InterDep.dll
+C:\Dev\InterDep\obj\Debug\net9.0\refint\InterDep.dll
+C:\Dev\InterDep\obj\Debug\net9.0\InterDep.pdb
+C:\Dev\InterDep\obj\Debug\net9.0\InterDep.genruntimeconfig.cache
+C:\Dev\InterDep\obj\Debug\net9.0\ref\InterDep.dll
